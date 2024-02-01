@@ -1,9 +1,5 @@
 <h1>FLIGHTGEAR - Capturador de datos.</h1><br><br>
 
-<p align="center">
- <img src="https://github.com/Ari-A-D/simuladorExtractor/blob/main/DB/simulador.png" alt="simulador" width="50%">
-</p>
-
 <h2>Resumen</h2>
 Extrae datos del simulador de vuelo que utiliza el software FlightGear, en pruebas de vuelo controladas. El software se utiliza en una cabina montada para el entrenamiento teorico/practico de pilotos, este servicio lo presta la empresa Oro Verde Digital SRL. <br>
 
