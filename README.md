@@ -1,5 +1,6 @@
 <h1>FLIGHTGEAR - Capturador de datos.</h1><br>
-![Imagen de como se ve el software]([./DB/mi_imagen.png](https://github.com/Ari-A-D/simuladorExtractor/blob/main/DB/simulador.png))
+![Simulador](https://github.com/Ari-A-D/simuladorExtractor/raw/main/DB/simulador.png)
+
 
 <h2>Resumen</h2>
 Extrae datos del simulador de vuelo que utiliza el software FlightGear, en pruebas de vuelo controladas. 
