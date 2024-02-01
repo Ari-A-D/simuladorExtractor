@@ -1,4 +1,4 @@
-<h1>FLIGHTGEAR - Capturador de datos.</h1><br>
+<h1>FLIGHTGEAR - Capturador de datos.</h1><br><br>
 
 <p align="center">
  <img src="https://github.com/Ari-A-D/simuladorExtractor/blob/main/DB/simulador.png" alt="simulador" width="50%">
