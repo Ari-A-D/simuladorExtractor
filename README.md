@@ -10,8 +10,11 @@ Extrae datos del simulador de vuelo que utiliza el software FlightGear, en prueb
 <h2>Base de datos</h2>
 La base de datos es de tipo relacional, se ve en la siguiente imagen su diseño entidad-relación.<br><br>
 
+<p align="center">
+ <img src="https://github.com/Ari-A-D/simuladorExtractor/assets/54744627/31520607-64e7-4019-8d3a-064ef47c78fb" alt="diagrama entidad realación" width="50%">
+</p>
 
-![DER-Diseño](https://github.com/Ari-A-D/simuladorExtractor/assets/54744627/31520607-64e7-4019-8d3a-064ef47c78fb)
+![DER-Diseño]()
 
 Realizado en PHP, CSS y HTML5. 
 La extraccion en tiempo real se realiza por IP de la función multijugador del sistema FlightGear, por medio de función de captura de PHP, y se inserta en una base de datos
