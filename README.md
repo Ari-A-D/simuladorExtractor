@@ -22,4 +22,4 @@ La base de datos fue realizada en PostgreSQL y montada en el mismo.<br><br>
 
 <h2>Programa capturador</h2>
 Realizado en PHP, CSS y HTML5. 
-La extraccion en tiempo real se realiza por IP de la función multijugador del sistema FlightGear, por medio de la función integrada de captura de datos codificados en json por IP de PHP, los mismos se inserta en la base de datos, en cada vuelo simulado realizado, donde las variables que guarda, son las que se muestran como atributos en los diagramas.
+La extracción en tiempo real se realiza por IP de la función multijugador del sistema FlightGear, por medio de la función integrada de captura de datos codificados en json por IP de PHP, los mismos se inserta en la base de datos, en cada vuelo simulado, donde las variables que guarda, son las que se muestran como atributos en los diagramas.
