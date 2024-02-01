@@ -1,5 +1,6 @@
 <h1>FLIGHTGEAR - Capturador de datos.</h1><br>
-![Simulador](https://raw.githubusercontent.com/Ari-A-D/simuladorExtractor/main/DB/simulador.png)
+<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/Ari-A-D/simuladorExtractor/main/DB/simulador.png</span><span>)</span>
+
 
 
 <h2>Resumen</h2>
