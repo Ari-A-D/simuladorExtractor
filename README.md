@@ -21,6 +21,6 @@ La extracción en tiempo real se realiza por IP de la función multijugador del 
 <br><br>
 
 <p align="center">
- <img src="https://github.com/Ari-A-D/simuladorExtractor/assets/54744627/97e2e1c8-38ac-42d5-aa42-1abae1ac4ad0" alt = "base de datos postgres" width ="80%">
+ <img src="https://github.com/Ari-A-D/simuladorExtractor/assets/54744627/97e2e1c8-38ac-42d5-aa42-1abae1ac4ad0" alt = "base de datos postgres" width ="50%">
 </p>
 
